@@ -1,0 +1,4 @@
+! 1/16/2020 stackblitz.com
+||c.staticblitz.com/assets/media/*/KendoAd/variants/*$xhr,domain=stackblitz.com
+stackblitz.com###sponsad-wrapper
+stackblitz.com##a:has-text(Remove Ads)
